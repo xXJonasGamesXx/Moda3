@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+.logo {
+  font-family: "Dancing Script", cursive;
+  font-size: 1.8rem;
+  color: #e0218a !important;
+}
+
+.btn-primary {
+  background-color: #e0218a;
+  border-color: #e0218a;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: #c71b7b;
+  border-color: #c71b7b;
+}
